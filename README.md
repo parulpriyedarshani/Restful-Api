@@ -20,7 +20,7 @@ A basic starter Node.js and express.js Restful Api project that covers all the C
 6. node_modules
 ##
 # How to run the project
-1. Fistly, clone the project on your local machine using `git clone` command on the treminal.
+1. Fistly, clone the project and build it on your local machine using `git clone` command on the terminal.
 2. Run `npm install` to install all the dependencies and third-party packages.
 3. Install nodemon too using `npm install nodemon --save`.
 4. Run the script `npm start`.
